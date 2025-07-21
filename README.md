@@ -4,11 +4,9 @@
 
 # About me
 
----
-
 # Skills
 
----
+# Stats
 
 # Codewars
 
